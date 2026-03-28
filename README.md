@@ -1,6 +1,5 @@
 # 🚀 Sekhar Behera — 3D Portfolio
 
-> Inspired by [Shivam-Sharma-1/3D-Portfolio](https://github.com/Shivam-Sharma-1/3D-Portfolio) — same visual style, rebuilt with Sekhar's data.
 
 ![Tech Stack](https://img.shields.io/badge/Next.js-13-black) ![Three.js](https://img.shields.io/badge/Three.js-0.157-blue) ![Tailwind](https://img.shields.io/badge/TailwindCSS-3-cyan)
 
