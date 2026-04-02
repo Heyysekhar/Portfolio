@@ -27,7 +27,7 @@ const Hero = ({ theme }) => {
               isDark ? "text-white" : "text-gray-900"
             }`}
           >
-            Hi, I'm <span className="text-[#915eff]">Sekhar</span>
+            Hi, I&apos;m <span className="text-[#915eff]">Sekhar</span>
           </h1>
 
           {/* Type animation - same as Shivam's */}
